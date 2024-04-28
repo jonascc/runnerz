@@ -1,0 +1,20 @@
+{
+  "runs": [
+    {
+      "id": 3,
+      "title": "Morning Run",
+      "startedOn": "2024-04-21T06:00:00",
+      "completedOn": "2024-04-21T07:00:00",
+      "miles": 5,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 4,
+      "title": "Wednesday afternoon run",
+      "startedOn": "2024-04-20T15:00:00.12345",
+      "completedOn": "2024-04-20T18:00:00.12345",
+      "miles": 2,
+      "location": "INDOOR"
+    }
+  ]
+}
